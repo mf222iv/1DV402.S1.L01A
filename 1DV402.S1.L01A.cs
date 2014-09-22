@@ -20,7 +20,6 @@ namespace ConsoleApplication2
             int returnFive;
             int returnOne;
 
-
             /* While-loop som körs så länge ett fel upptäcks */
             while (true)
             {
